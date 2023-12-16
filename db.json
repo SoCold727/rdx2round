@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "mmamalaka@mail.ru",
+      "password": "44411Oo",
+      "createdAt": 170274455309
+    },
+    {
+      "id": 2,
+      "email": "Danikya@mail.ru",
+      "password": "33411Oo",
+      "createdAt": 170274675309
+    }
+  ],
+  "notes": [
+    {
+      "title": "сделать дз",
+      "content": "ы",
+      "userId": 1,
+      "createdAt": 170274675309,
+      "id": 6
+    },
+    {
+      "title": "сделать дз",
+      "content": "ы",
+      "userId": 2,
+      "createdAt": 170274675309,
+      "id": 6
+    }
+  ]
+}

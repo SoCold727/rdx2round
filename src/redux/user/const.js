@@ -1,0 +1,3 @@
+export const SET_USER_LOADING = 'SET_USER_LOADING'
+export const SET_USER_ERROR = 'SET_USER_ERROR'
+export const SET_USER_DATA = 'SET_USER_DATA'
